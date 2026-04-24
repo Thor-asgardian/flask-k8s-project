@@ -1,1 +1,13 @@
+# DVC cache
+.dvc/cache/
+.dvc/tmp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+dvc-env/
+
+# Data (important)
 data/
